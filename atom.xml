@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://htao.me</id>
+    <title>黄涛博客</title>
+    <updated>2023-08-27T10:16:19.847Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://htao.me"/>
+    <link rel="self" href="https://htao.me/atom.xml"/>
+    <subtitle>一个自说自话的地方</subtitle>
+    <logo>https://htao.me/images/avatar.png</logo>
+    <icon>https://htao.me/favicon.ico</icon>
+    <rights>All rights reserved 2023, 黄涛博客</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://htao.me/post/1/</id>
+        <link href="https://htao.me/post/1/">
+        </link>
+        <updated>2023-07-27T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  很高兴能遇到 <strong>Gridea</strong> ！<br>
+✍️  以后我会用<strong>Gridea</strong> 来记录我的生活、心情、知识、笔记、创意... ...<br>
+😘 Enjoy~</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  很高兴能遇到 <strong>Gridea</strong> ！<br>
+✍️  以后我会用<strong>Gridea</strong> 来记录我的生活、心情、知识、笔记、创意... ...<br>
+😘 Enjoy~</p>
+<!-- more -->
+]]></content>
+    </entry>
+</feed>
